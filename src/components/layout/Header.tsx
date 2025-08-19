@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom'
 import { Bot } from 'lucide-react'
 import { ModeToggle } from '../darkmode/mode-toggle'
-import { Button } from '../ui/button'
 
 
 const Header = () => {
